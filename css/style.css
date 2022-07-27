@@ -189,6 +189,12 @@
         .boxabout {
             padding: 50 20px !important;
         }
+        .links {
+            align-items: center;
+            flex-direction: column;
+            display: flex;
+            justify-content: center;
+        }
     }
     
     .navbar-nav {
@@ -522,13 +528,6 @@
         align-items: center;
         /* text */
         color: #E4E4E4;
-    }
-    
-    .links {
-        align-items: center;
-        flex-direction: column;
-        display: flex;
-        justify-content: center;
     }
     
     .footer a {
