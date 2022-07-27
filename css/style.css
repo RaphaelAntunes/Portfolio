@@ -524,6 +524,13 @@
         color: #E4E4E4;
     }
     
+    .links {
+        align-items: center;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+    }
+    
     .footer a {
         font-family: 'next-bold';
         font-style: normal;
